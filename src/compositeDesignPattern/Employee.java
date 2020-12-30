@@ -7,8 +7,7 @@ public class Employee {
    private String name;
    private String dept;
    private int salary;
-   @SuppressWarnings("unused")
-private List<Employee> subordinates;
+   private List<Employee> subordinates;
 
    // constructor
    public Employee(String name,String dept, int sal) {
