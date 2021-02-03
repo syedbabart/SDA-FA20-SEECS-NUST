@@ -8,7 +8,7 @@ public class DecoratorDesignPatternDemo {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		MagicString s = new MagicString("hasan ali khattak");
+		MagicString s = new MagicString("syd babar tameez");
 		System.out.println("String " + s + " has " + s.getNumberOfVowels() + " vowels");
 	}
 }
